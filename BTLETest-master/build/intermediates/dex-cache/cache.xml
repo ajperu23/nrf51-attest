@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\BTLETest-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ef7ed9ec3f92079e78f40955225720c70dd762">
+        <dex dex="D:\BTLETest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_878a6b682853a68cbd54068fe9a18dc709572a82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BTLETest-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\BTLETest-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4656b42fd1870410e02fd9221679eada7ef8cb3c\classes.dex" />
+    </item>
+
+</items>
